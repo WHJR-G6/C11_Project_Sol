@@ -40,7 +40,5 @@ var iceberg= createSprite(400,250,20,20);
 iceberg.velocityX= -5;
 iceberg.addImage(iceBergImg);
 iceberg.scale=0.2;
-iceberg.y=random(250,400)
-
   }
 }
